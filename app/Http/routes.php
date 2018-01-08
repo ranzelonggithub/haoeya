@@ -27,7 +27,7 @@ Route::group(['prefix'=>'shop','namespace'=>'shop'],function(){
 
 //系统路由组
 Route::group(['prefix'=>'sys','namespace'=>'sys'],function(){
-
+eeeee
 });
 
 
